@@ -1,0 +1,33 @@
+Preguntas Teoría:
+1. 
+*Rest es un protocolo que permite la interoperabilidad 
+*Rest es una tecnología que está basada sobre el protocolo http Verdadero
+*SOAP es un protocolo que tiene el objetivo transferir mensajes entre aplicaciones distribuidas Verdadero
+*Los componentes de rest son nouns,Adjectives,Representations 
+*SOA es un protocolo de transferencia de mensajes entre aplicaciones distribuidas Falso
+
+2. Explique cada uno de los niveles de madurez de REST (Gloria REST)
+*sin estadoo con estado: Se refiere a el programa no guarda la información, sino que solo usa servicios.
+*Utilización de verbos http: Se refiere a el uso de  todos los verbos de http como get para hacer algo con un uri.
+
+3.Cuales son los componentes del SOAP-ENVELOPE y para que sirven
+Head:encabezado con identificador.
+cerpo: el contenido de el recurso
+
+4.Defina la diferencia de un estilo arquitectónico cliente servidor y un P2P
+Cliente servidor es cuando la comunicacion solo puede empezar de un lado, estan defindos cliente y servidor, donde el 
+cliente siempre utiliza los servicios ofrecidos por el servidor, mientras que en p2p ambos lados estan en igualdad de 
+condicion; ambos son cliente y servidor, y ambos pueden empezar la comunicacion.
+
+5.Escriba un ejemplo de un programa P2P y explique por que es P2P
+Arees, ya que conecta a la red una gran cantidad de computadores donde si yo como usuario quiero descargar algo, 
+mientras otro usuario lo tenga y este conectado yo podre descargarlo de el. 
+
+6.Qué es WSDL y para que sirve?
+
+
+7.Explique que significa que un objeto sea Thread-Safety
+Son objetos que sean inmutables.
+
+8.Explique los tipos y las variables atómicas.
+Son tipos que estan en el estado mas primitivo, es decir no pueden separarse mas.
